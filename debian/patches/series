@@ -1,0 +1,5 @@
+gcc4-fixes.patch
+configure-fixes.patch
+pkg-config.patch
+hardsid_4_bsd.patch
+gcc6-fixes.patch

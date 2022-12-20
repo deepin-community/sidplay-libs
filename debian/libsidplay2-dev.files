@@ -1,0 +1,4 @@
+usr/include/sidplay/*.h
+usr/lib/libsidplay*.a
+usr/lib/libsidplay*.so
+usr/lib/pkgconfig/libsidplay2.pc
